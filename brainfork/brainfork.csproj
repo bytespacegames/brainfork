@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>spacebyte</Authors>
+    <Company>bytespacegames</Company>
+    <Description>brainfuck interpreter written in c#</Description>
+    <Copyright>bytespacegames</Copyright>
+  </PropertyGroup>
+
+</Project>
